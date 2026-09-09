@@ -1,0 +1,5410 @@
+[
+  {
+    "id": "nk_ballista_01",
+    "name": "Ballista (1 von 2)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fd/Tw3_gwent_card_face_Ballista.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Wir geben ihnen oft weibliche Namen. Wie 'Anne'? Eher wie 'Berta'.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_ballista_02",
+    "name": "Ballista (2 von 2)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/02/Tw3_gwent_card_face_Ballista_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Wir geben ihnen oft weibliche Namen. Wie 'Anne'? Eher wie 'Berta'.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_belagerungsturm_03",
+    "name": "Belagerungsturm",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fd/Tw3_gwent_card_face_Siege_Tower.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Ich liebe das Gedröhn von Belagerungstürmen am Morgen. Es klingt nach Sieg.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_blaue_streifen_04",
+    "name": "Blaue Streifen (1 von 3)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/e/ee/Tw3_gwent_card_face_Blue_Stripes_Commando_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Ich würde alles für Temerien tun. Wobei es meist aufs Töten rausläuft.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nk_blaue_streifen_05",
+    "name": "Blaue Streifen (2 von 3)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/e/ee/Tw3_gwent_card_face_Blue_Stripes_Commando_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Ich würde alles für Temerien tun. Wobei es meist aufs Töten rausläuft.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_blaue_streifen_06",
+    "name": "Blaue Streifen (3 von 3)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Weißgarten – Taverne, Wirtin Elsa (oder Händler davor)",
+    "acquisition": "kauf",
+    "region": "weissgarten",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/e/ee/Tw3_gwent_card_face_Blue_Stripes_Commando_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Ich würde alles für Temerien tun. Wobei es meist aufs Töten rausläuft.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_detmold_07",
+    "name": "Detmold",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/4a/Tw3_gwent_card_face_Dethmold.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Fernkampf",
+      "description": "Bei mir hat mal ein Gefangener seine Innereien ausgekotzt. Die guten alten Zeiten",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_drachenjaeger_von_crinfrid_08",
+    "name": "Drachenjäger von Crinfrid (1 von 3)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Weißgarten – Taverne, Wirtin Elsa (oder Händler davor)",
+    "acquisition": "kauf",
+    "region": "weissgarten",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/7c/Tw3_gwent_card_face_Crinfrid_Reavers_Dragon_Hunter.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Fernkampf",
+      "description": "Hatten nicht viel Glück mit Monstern, also haben wir uns eingeschrieben.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nk_drachenjaeger_von_crinfrid_09",
+    "name": "Drachenjäger von Crinfrid (2 von 3)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Sandort, Händler (erst nach Rettung aus dem Banditenlager auf der Insel)",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/7c/Tw3_gwent_card_face_Crinfrid_Reavers_Dragon_Hunter.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Fernkampf",
+      "description": "Hatten nicht viel Glück mit Monstern, also haben wir uns eingeschrieben.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nk_drachenjaeger_von_crinfrid_10",
+    "name": "Drachenjäger von Crinfrid (3 von 3)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Mittelhain, Kaufmann",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/7c/Tw3_gwent_card_face_Crinfrid_Reavers_Dragon_Hunter.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Fernkampf",
+      "description": "Hatten nicht viel Glück mit Monstern, also haben wir uns eingeschrieben.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nk_esterad_thyssen_11",
+    "name": "Esterad Thyssen",
+    "faction": "nordreich",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Novigrad – Badehaus, Sieg gegen Sigismund Dijkstra",
+    "acquisition": "quest",
+    "quest": "Gwint: Spieler der Großstadt",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/7d/Tw3_gwent_card_face_Esterad_Thyssen.png",
+    "missable": {
+      "value": true,
+      "reason": "Vor Abschluss von „Finde Junior“ gegen Dijkstra spielen"
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Nahkampf",
+      "description": "Wie alle Männer aus Thyssend war er groß, kräftig und sah verboten gut aus.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "nk_fuerst_stennis_12",
+    "name": "Fürst Stennis",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/4f/Tw3_gwent_card_face_Prince_Stennis.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Er trägt 'ne goldene Rüstung. Golden. Was für ein Arschloch.",
+      "ability": "",
+      "traits": ["spy"]
+    }
+  },
+  {
+    "id": "nk_gottverdammte_infanterie_13",
+    "name": "Gottverdammte Infanterie (1 von 4)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/16/Tw3_gwent_card_face_Poor_Fucking_Infantry.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Nahkampf",
+      "description": "Bin Kriegsveteran! Eine Krone?",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nk_gottverdammte_infanterie_14",
+    "name": "Gottverdammte Infanterie (2 von 4)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/16/Tw3_gwent_card_face_Poor_Fucking_Infantry.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Nahkampf",
+      "description": "Bin Kriegsveteran! Eine Krone?",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nk_gottverdammte_infanterie_15",
+    "name": "Gottverdammte Infanterie (3 von 4)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Lindental, Kaufmann",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/16/Tw3_gwent_card_face_Poor_Fucking_Infantry.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Nahkampf",
+      "description": "Bin Kriegsveteran! Eine Krone?",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nk_gottverdammte_infanterie_16",
+    "name": "Gottverdammte Infanterie (4 von 4)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Mittelhain, Kaufmann",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/16/Tw3_gwent_card_face_Poor_Fucking_Infantry.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Nahkampf",
+      "description": "Bin Kriegsveteran! Eine Krone?",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nk_heilerin_des_grossen_faehnleins_17",
+    "name": "Heilerin des Großen Fähnleins",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fe/Tw3_gwent_card_face_Dun_Banner_Medic.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Belagerung",
+      "description": "Näh Rot an Rot und Weiß an Weiß, dann passt es.",
+      "ability": "",
+      "traits": ["medic"]
+    }
+  },
+  {
+    "id": "nk_john_natalis_18",
+    "name": "Johan Natalis",
+    "faction": "nordreich",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne Goldener Stör, Sieg gegen Ravvy",
+    "acquisition": "quest",
+    "quest": "Ein gefährliches Spiel",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/28/Tw3_gwent_card_face_John_Natalis.png",
+    "missable": {
+      "value": true,
+      "reason": "Bei Belohnungswahl nicht „Geld“ als Belohnung wählen"
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Nahkampf",
+      "description": "Der Stein sollte die Namen meiner Soldaten tragen - der toten. Nicht meinen.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "nk_kaedwen_belagerungsexperte_19",
+    "name": "Kaedwen-Belagerungsexperte (1 von 3)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/38/Tw3_gwent_card_face_Kaedweni_Siege_Expert_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Belagerung",
+      "description": "Du musst den Arm um fünf Grad rekalibrieren. - Ich soll was um wie bitte?",
+      "ability": "",
+      "traits": ["morale_boost"]
+    }
+  },
+  {
+    "id": "nk_kaedwen_belagerungsexperte_20",
+    "name": "Kaedwen-Belagerungsexperte (2 von 3)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/38/Tw3_gwent_card_face_Kaedweni_Siege_Expert_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Belagerung",
+      "description": "Du musst den Arm um fünf Grad rekalibrieren. - Ich soll was um wie bitte?",
+      "ability": "",
+      "traits": ["morale_boost"]
+    }
+  },
+  {
+    "id": "nk_kaedwen_belagerungsexperte_21",
+    "name": "Kaedwen-Belagerungsexperte (3 von 3)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/38/Tw3_gwent_card_face_Kaedweni_Siege_Expert_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Belagerung",
+      "description": "Du musst den Arm um fünf Grad rekalibrieren. - Ich soll was um wie bitte?",
+      "ability": "",
+      "traits": ["morale_boost"]
+    }
+  },
+  {
+    "id": "nk_katapult_22",
+    "name": "Katapult (1 von 2)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Weißgarten – Taverne, Wirtin Elsa (oder Händler davor)",
+    "acquisition": "kauf",
+    "region": "weissgarten",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/84/Tw3_gwent_card_face_Catapult_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 8,
+      "row": "Belagerung",
+      "description": "Die Götter helfen denen mit den besseren Katapulten.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nk_katapult_23",
+    "name": "Katapult (2 von 2)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Passiflora, Marquise Serenitz",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/84/Tw3_gwent_card_face_Catapult_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 8,
+      "row": "Belagerung",
+      "description": "Die Götter helfen denen mit den besseren Katapulten.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nk_keira_metz_24",
+    "name": "Keira Metz",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/14/Tw3_gwent_card_face_Keira_Metz.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Fernkampf",
+      "description": "Wenn ich heute sterbe, will ich dabei wenigstens umwerfend aussehen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_philippa_eilhart_25",
+    "name": "Philippa Eilhart",
+    "faction": "nordreich",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/bf/Tw3_gwent_card_face_Philippa_Eilhart.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Fernkampf",
+      "description": "Bald wird die Macht der Könige schwinden und die Loge nimmt ihren Platz ein.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "nk_redanischer_fusssoldat_26",
+    "name": "Redanischer Fußsoldat (1 von 2)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/3d/Tw3_gwent_card_face_Redanian_Foot_Soldier_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Nahkampf",
+      "description": "Ich sterbe für Redanien. Ich töte für Redanien. Sogar Würmer würd ich fressen!",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_redanischer_fusssoldat_27",
+    "name": "Redanischer Fußsoldat (2 von 2)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b6/Tw3_gwent_card_face_Redanian_Foot_Soldier_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Nahkampf",
+      "description": "Ich sterbe für Redanien. Ich töte für Redanien. Sogar Würmer würd ich fressen!",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_sabrina_glevissig_28",
+    "name": "Sabrina Glevissig",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/76/Tw3_gwent_card_face_Sabrina_Glevissig.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Die Tochter der Wildnis von Kaedwen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_sheala_de_tancarville_29",
+    "name": "Sheala de Tancarville",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/c7/Tw3_gwent_card_face_Sile_de_Tansarville.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Fernkampf",
+      "description": "Der Loge fehlt Demut. Philippas Machthunger wird noch unser Untergang sein.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_sheldon_skaggs_30",
+    "name": "Sheldon Skaggs",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/a/ac/Tw3_gwent_card_face_Sheldon_Skaggs.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Ich war dort - an vorderster Front! Wo die Kämpfe am heftigsten tobten!",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_siegfried_von_denesle_31",
+    "name": "Siegfried von Denesle",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/6e/Tw3_gwent_card_face_Siegfried_of_Denesle.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Über Frieden zu verhandeln ist einfacher, als ihn einzuhalten.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_sigismund_dijkstra_32",
+    "name": "Sigismund Dijkstra",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Krähenfels, Sieg gegen den Blutigen Baron",
+    "acquisition": "quest",
+    "quest": "Gwint: Spieler in Velen",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/7b/Tw3_gwent_card_face_Sigismund_Dijkstra.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Gwint ist wie Politik, nur ehrlicher.",
+      "ability": "",
+      "traits": ["spy"]
+    }
+  },
+  {
+    "id": "nk_thaler_33",
+    "name": "Thaler",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Arinbjorn, Tavernenwirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/90/Tw3_gwent_card_face_Thaler.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Nahkampf",
+      "description": "Schwachsinn! Wir sind nicht alle Schürzenjäger. Manche von uns haben Tiefgang.",
+      "ability": "",
+      "traits": ["spy"]
+    }
+  },
+  {
+    "id": "nk_tribok_34",
+    "name": "Tribok (1 von 2)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/73/Tw3_gwent_card_face_Trebuchet_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Die Burg stürzt nicht von selbst ein, oder? Holt die Triboke!",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_tribok_35",
+    "name": "Tribok (2 von 2)",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/bb/Tw3_gwent_card_face_Trebuchet_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Die Burg stürzt nicht von selbst ein, oder? Holt die Triboke!",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_vernon_roche_36",
+    "name": "Vernon Roche",
+    "faction": "nordreich",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Velen – Mittelhain, Sieg gegen Haddy",
+    "acquisition": "quest",
+    "quest": "Gwint: Spieler in Velen",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8a/Tw3_gwent_card_face_Vernon_Roche.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Nahkampf",
+      "description": "Ein Patriot ... und ein echter Hurensohn.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "nk_ves_37",
+    "name": "Ves",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/67/Tw3_gwent_card_face_Ves.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Lieber einen Tag als König leben denn ein Leben lang als Bettler.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_yarpen_zigrin_38",
+    "name": "Yarpen Zigrin",
+    "faction": "nordreich",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/84/Tw3_gwent_card_face_Yarpen_Zigrin.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Und ich sag ihr, Mädel, ich war in Eisenminen, die waren kleiner als deine Höhle.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_foltest_der_staehlerne_39",
+    "name": "Foltest, der Stählerne",
+    "faction": "nordreich",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Novigrad – Passiflora gegen Bernard Tulle",
+    "acquisition": "turnier",
+    "quest": "Hohe Einsätze",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/a/ae/Tw3_gwent_card_face_Foltest_the_Steel-Forged.png",
+    "missable": {
+      "value": true,
+      "reason": "Nur bei Sieg im Gwint-Turnier „Hohe Einsätze“"
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Ein herrlicher Tag für eine Schlacht.",
+      "ability": "Zerstöre die stärkste(n) Belagerungseinheit(en) des Gegners, sofern deren Gesamtstärke mindestens 10 beträgt.",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_foltest_der_anfuehrer_des_nordens_40",
+    "name": "Foltest: Der Anführer des Nordens",
+    "faction": "nordreich",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Weißgarten – Taverne, Wirtin Elsa (oder Händler davor)",
+    "acquisition": "kauf",
+    "region": "weissgarten",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/7e/Tw3_gwent_card_face_Foltest_Lord_Commander_of_the_North.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Verfluchte Räte und ihre Ränke. Ich vertraue auf meine Klinge.",
+      "ability": "Entferne durch „Klirrende Kälte“, „Strömender Regen“ und „Extrem dichter Nebel“ hervorgerufene Wettereffekte. ",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_foltest_der_belagerer_41",
+    "name": "Foltest: Der Belagerer",
+    "faction": "nordreich",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Königliche Burg Wyzima – Innenhof, Sieg gegen den „Nilfgaardischen Adligen“",
+    "acquisition": "belohnung",
+    "region": "weissgarten",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/80/Tw3_gwent_card_face_Foltest_the_Siegemaster.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Eine Ballista reißt die Mauern des Feindes ein - und seine Moral auch.",
+      "ability": "Verdopple die Stärke deiner Belagerungseinheiten, sofern kein „Horn des Kommandanten“ in der Reihe liegt.",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_foltest_koenig_temeriens_42",
+    "name": "Foltest: König Temeriens",
+    "faction": "nordreich",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/ba/Tw3_gwent_card_face_Foltest_King_of_Temeria.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Es ist natürlich und wunderbar, dass ein Mann seine Schwester liebt.",
+      "ability": "Durchsuche deinen Nachziehstapel nach „Extrem dichter Nebel“ und spiele die Karte sofort aus.",
+      "traits": []
+    }
+  },
+  {
+    "id": "nk_foltest_sohn_des_medell_43",
+    "name": "Foltest: Sohn des Medell",
+    "faction": "nordreich",
+    "type": "Anführer",
+    "source": "Hearts of Stone",
+    "location": "Novigrad – Zirkuslager bei Carsten, Händler der Zirkustruppe",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/24/Tw3_gwent_card_face_Foltest_Son_of_Medell.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Ich regiere dieses Königreich. Ich sitze nicht zitternd in seinen Winkeln.",
+      "ability": "Zerstöre die stärkste(n) Fernkampfeinheit(en) des Gegners, wenn die Gesamtstärke seiner Fernkampfeinheiten mindestens 10 beträgt.",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_albrich_01",
+    "name": "Albrich",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Krähenfels, Händler",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/e/ec/Tw3_gwent_card_face_Albrich.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Ein Feuerball? Natürlich. Was immer Eure kaiserliche Hoheit wünschen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_assire_var_anahid_02",
+    "name": "Assire var Anahid",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/19/Tw3_gwent_card_face_Assire_var_Anahid.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Fernkampf",
+      "description": "Nilfgaards Magier haben die Wahl: kriecherische Unterordnung oder Galgen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_bogenschuetzen_03",
+    "name": "Bogenschützen (1 von 2)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Lindental, Händler",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/64/Tw3_gwent_card_face_Etolian_Auxiliary_Archers_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Fernkampf",
+      "description": "Alles oder nichts - zielt auf sein bestes Stück.",
+      "ability": "",
+      "traits": ["medic"]
+    }
+  },
+  {
+    "id": "nil_bogenschuetzen_04",
+    "name": "Bogenschützen (2 von 2)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Sandort, Händler (erst nach Rettung aus dem Banditenlager auf der Insel)",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/bb/Tw3_gwent_card_face_Etolian_Auxiliary_Archers_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Fernkampf",
+      "description": "Alles oder nichts - zielt auf sein bestes Stück.",
+      "ability": "",
+      "traits": ["medic"]
+    }
+  },
+  {
+    "id": "nil_cahir_aep_ceallach_05",
+    "name": "Cahir aep Ceallach",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/1f/Tw3_gwent_card_face_Cahir_Mawr_Dyffryn_aep_Ceallach.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Seine Augen blitzten unter dem Flügelhelm. Die Schwertklinge glomm feurig.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_cynthia_06",
+    "name": "Cynthia",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Krähenfels, Quartiermeister im Laden des Barons",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/52/Tw3_gwent_card_face_Cynthia.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "„Cynthia kann tödlich sein“, grinste Philippa. „Sie braucht eine harte Hand.“",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_feuerskorpion_07",
+    "name": "Feuerskorpion",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Krähenfels, Händler",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/41/Tw3_gwent_card_face_Zerrikanian_Fire_Scorpion.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Belagerung",
+      "description": "Die serrikanische Wüste war einst ein üppiger Garten. Bis sie kamen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_fringilla_vigo_08",
+    "name": "Fringilla Vigo",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Beute aus Caesar Bilzens Haus am Hierarchenplatz",
+    "acquisition": "quest",
+    "quest": "Ein gefährliches Spiel",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/83/Tw3_gwent_card_face_Fringilla_Vigo.png",
+    "missable": {
+      "value": true,
+      "reason": "Bei Belohnungswahl nicht „Geld“ als Belohnung wählen"
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Fernkampf",
+      "description": "Erblinden ist eine gute Strafe für Zauberinnen. Sie trifft ihre Eitelkeit.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_impera_brigade_09",
+    "name": "Impera-Brigade (1 von 4)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Krähenfels, Händler",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/04/Tw3_gwent_card_face_Impera_Brigade_Guard_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Nahkampf",
+      "description": "Die Impera-Brigade ergibt sich niemals. Unter keinen Umständen.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nil_impera_brigade_10",
+    "name": "Impera-Brigade (2 von 4)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Taverne am Scheideweg, Wirt",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/04/Tw3_gwent_card_face_Impera_Brigade_Guard_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Nahkampf",
+      "description": "Die Impera-Brigade ergibt sich niemals. Unter keinen Umständen.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nil_impera_brigade_11",
+    "name": "Impera-Brigade (3 von 4)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne „Sieben Katzen“, Wirtin",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/04/Tw3_gwent_card_face_Impera_Brigade_Guard_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Nahkampf",
+      "description": "Die Impera-Brigade ergibt sich niemals. Unter keinen Umständen.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nil_impera_brigade_12",
+    "name": "Impera-Brigade (4 von 4)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Gänsemöse, Taverne „Zur Gänsemöse“, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/04/Tw3_gwent_card_face_Impera_Brigade_Guard_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Nahkampf",
+      "description": "Die Impera-Brigade ergibt sich niemals. Unter keinen Umständen.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nil_ingenieur_13",
+    "name": "Ingenieur",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Taverne am Scheideweg, Wirt",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/40/Tw3_gwent_card_face_Siege_Engineer.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Ein Goniometer kann eine tödliche Waffe sein, wenn man es richtig führt.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_junger_gesandter_14",
+    "name": "Junger Gesandter (1 von 2)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Gänsemöse, Taverne „Zur Gänsemöse“, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/80/Tw3_gwent_card_face_Young_Emmisary_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Wenn ich mich gut führe, komme ich vielleicht bald an einen zivilisierten Ort.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nil_junger_gesandter_15",
+    "name": "Junger Gesandter (2 von 2)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne „Sieben Katzen“, Wirtin",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/25/Tw3_gwent_card_face_Young_Emmisary_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Wenn ich mich gut führe, komme ich vielleicht bald an einen zivilisierten Ort.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nil_letho_von_guleta_16",
+    "name": "Letho von Guleta",
+    "faction": "nilfgaard",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Velen – Erzdorf, Sieg gegen den Bootsbauer",
+    "acquisition": "quest",
+    "quest": "Gwint: Spieler in Velen",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/d/de/Tw3_gwent_card_face_Letho_of_Gulet.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Nahkampf",
+      "description": "Hexer sterben nie in ihren Betten.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "nil_menno_coehoorn_17",
+    "name": "Menno Coehoorn",
+    "faction": "nilfgaard",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Velen – Taverne am Scheideweg, Sieg gegen den Wirt",
+    "acquisition": "quest",
+    "quest": "Gwint: Spiele gegen Wirte",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/e/ea/Tw3_gwent_card_face_Menno_Coehoorn.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Nahkampf",
+      "description": "Ich ziehe gehorsame Späher einer guten Kavalleriebrigade jederzeit vor.",
+      "ability": "",
+      "traits": ["hero", "medic"]
+    }
+  },
+  {
+    "id": "nil_morteisen_18",
+    "name": "Morteisen",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Mittelhain, Kaufmann",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/d/d6/Tw3_gwent_card_face_Morteisen.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Nahkampf",
+      "description": "Kein Nordling oder Zwerg kann gegen eine erfahrene Kavallerie bestehen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_morvran_voorhis_19",
+    "name": "Morvran Voorhis",
+    "faction": "nilfgaard",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Novigrad – Passiflora, Sieg gegen Marquise Serenitz",
+    "acquisition": "quest",
+    "quest": "Gwint: Spieler der Großstadt",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/50/Tw3_gwent_card_face_Morvran_Voorhis.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Belagerung",
+      "description": "Wie sich die Sommersonne in der Alba spiegelt - das ist Nilfgaard für mich.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "nil_nausicaa_kavalleriebrigade_20",
+    "name": "Nausicaa-Kavalleriebrigade (1 von 3)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Krähenfels, Quartiermeister im Laden des Barons",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/c5/Tw3_gwent_card_face_Nausicaa_Cavalry_Rider_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Der Kaiser wird den Norden Disziplin lehren.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nil_nausicaa_kavalleriebrigade_21",
+    "name": "Nausicaa-Kavalleriebrigade (2 von 3)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Taverne am Scheideweg, Wirt",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/c5/Tw3_gwent_card_face_Nausicaa_Cavalry_Rider_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Der Kaiser wird den Norden Disziplin lehren.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nil_nausicaa_kavalleriebrigade_22",
+    "name": "Nausicaa-Kavalleriebrigade (3 von 3)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Krähenfels, Händler",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/c5/Tw3_gwent_card_face_Nausicaa_Cavalry_Rider_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Der Kaiser wird den Norden Disziplin lehren.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "nil_puttkammer_23",
+    "name": "Puttkammer",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Sandort, Händler (erst nach Rettung aus dem Banditenlager auf der Insel)",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/04/Tw3_gwent_card_face_Puttkamer.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Fernkampf",
+      "description": "Bei der Militärakademie Braibant lernt man viel. Etwa, die Hymne zu rülpsen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_rainfarn_24",
+    "name": "Rainfarn",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Lindental, Händler",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/80/Tw3_gwent_card_face_Rainfarn.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Du wirst so schmerzvoll sterben wie dieser jämmerliche Verräter Windhalm.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_renuald_aep_matsen_25",
+    "name": "Renuald aep Matsen",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/d/d8/Tw3_gwent_card_face_Renuald_aep_Matsen.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Fernkampf",
+      "description": "Man sagt, die Impera fürchte nichts. Falsch. Vor Renuald macht sie sich in die Hose.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_schuetze_der_schwarzen_infanterie_26",
+    "name": "Schütze der Schwarzen Infanterie (1 von 2)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Sandort, Händler (erst nach Rettung aus dem Banditenlager auf der Insel)",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/a/aa/Tw3_gwent_card_face_Black_Infantry_Archer_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Fernkampf",
+      "description": "Ich ziele aufs Knie. Immer.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_schuetze_der_schwarzen_infanterie_27",
+    "name": "Schütze der Schwarzen Infanterie (2 von 2)",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Lindental, Händler",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8b/Tw3_gwent_card_face_Black_Infantry_Archer_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Fernkampf",
+      "description": "Ich ziele aufs Knie. Immer.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_schwerer_feuerskorpion_28",
+    "name": "Schwerer Feuerskorpion",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Lindental, Händler",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/73/Tw3_gwent_card_face_Heavy_Zerrikanian_Fire_Scorpion.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Belagerung",
+      "description": "Es gibt Besseres, um Städte zu erobern, aber nicht, um sie zu zerstören.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_shilard_fitz_oesterlen_29",
+    "name": "Shilard Fitz-Oesterlen",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/6f/Tw3_gwent_card_face_Shilard_Fitz-Oesterlen.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 7,
+      "row": "Nahkampf",
+      "description": "Kriegsführung ist bloß großes Tamtam - nur Diplomatie bestimmt die Geschichte.",
+      "ability": "",
+      "traits": ["spy"]
+    }
+  },
+  {
+    "id": "nil_stefan_skellen_30",
+    "name": "Stefan Skellen",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/e/e4/Tw3_gwent_card_face_Stefan_Skellen.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 9,
+      "row": "Nahkampf",
+      "description": "Die Narbe der zukünftigen Kaiserin stammt von mir. Mein größter Stolz.",
+      "ability": "",
+      "traits": ["spy"]
+    }
+  },
+  {
+    "id": "nil_sweers_31",
+    "name": "Sweers",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Sandort, Händler (erst nach Rettung aus dem Banditenlager auf der Insel)",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/21/Tw3_gwent_card_face_Sweers.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Wenn dich Schwanz und Schwerthand jucken, schließ dich uns an.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_tibor_eggebracht_32",
+    "name": "Tibor Eggebracht",
+    "faction": "nilfgaard",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne Eisvogel, Sieg gegen Olivier",
+    "acquisition": "quest",
+    "quest": "Gwint: Spiele gegen Wirte",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/93/Tw3_gwent_card_face_Tibor_Eggebracht.png",
+    "missable": {
+      "value": true,
+      "reason": "Vor „Jetzt oder Nie“ gegen Olivier spielen (er kann sterben)"
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Fernkampf",
+      "description": "Albaaa! Vorwärts! Alba! Lang lebe der Kaiser!",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "nil_unterstuetzung_33",
+    "name": "Unterstützung",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne Goldener Stör, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/38/Tw3_gwent_card_face_Siege_Technician.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 0,
+      "row": "Belagerung",
+      "description": "Ich verfehle mein Ziel nie zweimal.",
+      "ability": "",
+      "traits": ["medic"]
+    }
+  },
+  {
+    "id": "nil_vanhemar_34",
+    "name": "Vanhemar",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/ce/Tw3_gwent_card_face_Vanhemar.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Feuermagier haben ein spektakuläres Leben - und einen ebensolchen Tod.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_vattier_de_rideaux_35",
+    "name": "Vattier de Rideaux",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/33/Tw3_gwent_card_face_Vattier_de_Rideaux.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Es gibt kein Problem, das man nicht mit einem cleveren Attentat lösen könnte.",
+      "ability": "",
+      "traits": ["spy"]
+    }
+  },
+  {
+    "id": "nil_verrottete_mangonel_36",
+    "name": "Verrottete Mangonel",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/18/Tw3_gwent_card_face_Rotten_Mangonel.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Belagerung",
+      "description": "Der faulige Gestank weckt Kindheitserinnerungen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_vreemde_37",
+    "name": "Vreemde",
+    "faction": "nilfgaard",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/3f/Tw3_gwent_card_face_Vreemde.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Der Brauch, Kampftrupps nach ihren Führern zu nennen, erfüllte Vreemde mit Stolz.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_emhyr_var_emreis_der_unbarmherzige_38",
+    "name": "Emhyr var Emreis: Der Unbarmherzige",
+    "faction": "nilfgaard",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Novigrad – Passiflora, Sieg gegen Sasha",
+    "acquisition": "turnier",
+    "quest": "Hohe Einsätze",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/9d/Tw3_gwent_card_face_Emhyr_var_Emreis_the_Relentless.png",
+    "missable": {
+      "value": true,
+      "reason": "Nur bei Sieg im Gwint-Turnier „Hohe Einsätze“"
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Man nennt mich nicht den Geduldigen. Aber dich bald den Kopflosen.",
+      "ability": "Zieh eine Karte vom Ablagestapel deines Gegners.",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_emhyr_var_emreis_die_weisse_flamme_39",
+    "name": "Emhyr var Emreis: Die Weiße Flamme",
+    "faction": "nilfgaard",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Skellige – Belohnung für den Abschluss der Quest",
+    "acquisition": "quest",
+    "quest": "Gwint: Skelliger Stil",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/77/Tw3_gwent_card_face_Emhyr_var_Emreis_the_White_Flame.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Das Schwert ist nur eins der vielen Werkzeuge eines Herrschers.",
+      "ability": "Lass die Anführer-Fähigkeit deines Gegners unwirksam werden.",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_emhyr_var_emreis_invasor_des_nordens_40",
+    "name": "Emhyr var Emreis: Invasor des Nordens",
+    "faction": "nilfgaard",
+    "type": "Anführer",
+    "source": "Hearts of Stone",
+    "location": "Novigrad – Zirkuslager bei Carsten, Händler",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/cb/Tw3_gwent_card_face_Emhyr_var_Emreis_Invader_of_the_North.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Ein Kaiser kontrolliert alles - bis auf zwei Dinge: seine Zeit und sein Herz.",
+      "ability": "Fähigkeiten, die Einheiten auf dem Schlachtfeld wiederherstellen, stellen zufällig ausgewählte Einheiten wieder her. Wirkt auf beide Spieler.",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_emhyr_var_emreis_kaiser_von_nilfgaard_41",
+    "name": "Emhyr var Emreis: Kaiser von Nilfgaard",
+    "faction": "nilfgaard",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Velen – Taverne am Scheideweg, Wirt",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/1c/Tw3_gwent_card_face_Emhyr_var_Emreis_Emperor_of_Nilfgaard.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Deine Motive interessieren mich nicht. Nur Ergebnisse.",
+      "ability": "Schau dir drei zufällig gewählte Karten aus der Hand deines Gegners an.",
+      "traits": []
+    }
+  },
+  {
+    "id": "nil_emhyr_var_emreis_kaiserliche_majestaet_42",
+    "name": "Emhyr var Emreis: Kaiserliche Majestät",
+    "faction": "nilfgaard",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fa/Tw3_gwent_card_face_Emhyr_var_Emreis_His_Imperial_Majesty.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Der Himmel weinte, als meine Pavetta starb. Um mich wird er nicht weinen.",
+      "ability": "Durchsuche deinen Nachziehstapel nach „Strömender Regen“ und spiele die Karte sofort aus.",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_barclay_els_01",
+    "name": "Barclay Els",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne Goldener Stör, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/9c/Tw3_gwent_card_face_Barclay_Els.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Unser Met schmeckt also nach Pisse, ja? Kein Problem - ich brech dir die Nase!",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "sco_ciaran_aep_easnillien_02",
+    "name": "Ciaran aep Easnillien",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/51/Tw3_gwent_card_face_Ciaran_aep_Easnillien.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Blutvergießen ist unser Weg zur Freiheit - nicht Diplomatie.",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "sco_dennis_cranmer_03",
+    "name": "Dennis Cranmer",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/94/Tw3_gwent_card_face_Dennis_Cranmer.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Ich weiß, wie ich meine Befehle auszuführen habe, also erspar mir deinen Rat.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_dol_blathanna_schuetze_04",
+    "name": "Dol-Blathanna-Schütze",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Passiflora, Marquise Serenitz",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/bc/Tw3_gwent_card_face_Dol_Blathanna_Archer.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Nur zu, Dh'oine. Ein Pfeil zwischen den Augen wird dir stehen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_dol_blathanna_spaeher_05",
+    "name": "Dol-Blathanna-Späher (1 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b8/Tw3_gwent_card_face_Dol_Blathanna_Scout_3.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Sie wittern wie Hunde, laufen wie Rehe und töten wie kaltblütige Bastarde.",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "sco_dol_blathanna_spaeher_06",
+    "name": "Dol-Blathanna-Späher (2 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/2d/Tw3_gwent_card_face_Dol_Blathanna_Scout_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Sie wittern wie Hunde, laufen wie Rehe und töten wie kaltblütige Bastarde.",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "sco_dol_blathanna_spaeher_07",
+    "name": "Dol-Blathanna-Späher (3 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne Goldener Stör, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/f2/Tw3_gwent_card_face_Dol_Blathanna_Scout_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Sie wittern wie Hunde, laufen wie Rehe und töten wie kaltblütige Bastarde.",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "sco_eithne_08",
+    "name": "Eithné",
+    "faction": "scoiatael",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Novigrad – „Rosmarin und Thymian“, Sieg gegen Zoltan",
+    "acquisition": "quest",
+    "quest": "Gwint: Alte Freunde",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/ce/Tw3_gwent_card_face_Eithne.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Fernkampf",
+      "description": "Die Dryadenkönigin: Augen aus flüssigem Silber, ein Herz aus kaltem Stahl.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "sco_elfen_scharmuetzler_09",
+    "name": "Elfen-Scharmützler (1 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – An Skellig, Hafen von Urialla, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/96/Tw3_gwent_card_face_Elven_Skirmisher_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Halt still, verdammtes Langohr - so kann ich nicht zielen!",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sco_elfen_scharmuetzler_10",
+    "name": "Elfen-Scharmützler (2 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/e/eb/Tw3_gwent_card_face_Elven_Skirmisher_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Halt still, verdammtes Langohr - so kann ich nicht zielen!",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sco_elfen_scharmuetzler_11",
+    "name": "Elfen-Scharmützler (3 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/21/Tw3_gwent_card_face_Elven_Skirmisher_3.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Halt still, verdammtes Langohr - so kann ich nicht zielen!",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sco_filavandrel_aen_fidhail_12",
+    "name": "Filavandrel aén Fidháil",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/02/Tw3_gwent_card_face_Filavandrel_aen_Fidhail.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Wir sind nur noch wenige Versprengte, aber unsere Herzen lodern heller als je.",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "sco_havka_heiler_13",
+    "name": "Havka-Heiler (1 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/5c/Tw3_gwent_card_face_Havekar_Healer_3.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 0,
+      "row": "Fernkampf",
+      "description": "Klar kann ich dich zusammenflicken. Das kostet aber.",
+      "ability": "",
+      "traits": ["medic"]
+    }
+  },
+  {
+    "id": "sco_havka_heiler_14",
+    "name": "Havka-Heiler (2 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Gänsemöse, Taverne „Zur Gänsemöse“, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/4f/Tw3_gwent_card_face_Havekar_Healer_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 0,
+      "row": "Fernkampf",
+      "description": "Klar kann ich dich zusammenflicken. Das kostet aber.",
+      "ability": "",
+      "traits": ["medic"]
+    }
+  },
+  {
+    "id": "sco_havka_heiler_15",
+    "name": "Havka-Heiler (3 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne Eisvogel, Olivier oder Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fc/Tw3_gwent_card_face_Havekar_Healer_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 0,
+      "row": "Fernkampf",
+      "description": "Klar kann ich dich zusammenflicken. Das kostet aber.",
+      "ability": "",
+      "traits": ["medic"]
+    }
+  },
+  {
+    "id": "sco_havka_unterstuetzer_16",
+    "name": "Havka-Unterstützer (1 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne „Sieben Katzen“, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/ba/Tw3_gwent_card_face_Havekar_Smuggler_3.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Ich kämpfe für den, der am besten zahlt. Oder am einfachsten auszurauben ist.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sco_havka_unterstuetzer_17",
+    "name": "Havka-Unterstützer (2 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/98/Tw3_gwent_card_face_Havekar_Smuggler_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Ich kämpfe für den, der am besten zahlt. Oder am einfachsten auszurauben ist.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sco_havka_unterstuetzer_18",
+    "name": "Havka-Unterstützer (3 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne Eisvogel, Olivier oder Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fa/Tw3_gwent_card_face_Havekar_Smuggler_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Ich kämpfe für den, der am besten zahlt. Oder am einfachsten auszurauben ist.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sco_ida_emean_aep_sivney_19",
+    "name": "Ida Emean aep Sivney",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/84/Tw3_gwent_card_face_Ida_Emean_aep_Sivney.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Fernkampf",
+      "description": "Ich bin eine Wissende. Meine Macht ist mein Wissen, nicht dessen Weitergabe.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_iorveth_20",
+    "name": "Iorveth",
+    "faction": "scoiatael",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Gedyneith",
+    "acquisition": "quest",
+    "quest": "Schocktherapie",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/78/Tw3_gwent_card_face_Iorveth.png",
+    "missable": {
+      "value": true,
+      "reason": "Man muss Egil einen Schrecken einjagen"
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Fernkampf",
+      "description": "Verdammt gut gezielt für einen Einäugigen.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "sco_isengrim_faoiltiarna_21",
+    "name": "Isengrim Faoiltiarna",
+    "faction": "scoiatael",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Novigrad – Beute aus Zeds Haus",
+    "acquisition": "quest",
+    "quest": "Ein gefährliches Spiel",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/a/a3/Tw3_gwent_card_face_Isengrim_Faoiltiarna.png",
+    "missable": {
+      "value": true,
+      "reason": "Bei Belohnungswahl nicht „Geld“ als Belohnung wählen"
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Nahkampf",
+      "description": "Wenn sie meine Narben sehen, dämmert es ihnen: Sie sind so gut wie tot.",
+      "ability": "",
+      "traits": ["hero", "morale_boost"]
+    }
+  },
+  {
+    "id": "sco_mahakam_verteidiger_22",
+    "name": "Mahakam-Verteidiger (1 von 5)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne Eisvogel, Olivier oder Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/cd/Tw3_gwent_card_face_Mahakaman_Defender_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Ich sage dir, wir sind zum Kämpfen geboren - wir zielen genau auf ihre Knie.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_mahakam_verteidiger_23",
+    "name": "Mahakam-Verteidiger (2 von 5)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne Goldener Stör, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/3c/Tw3_gwent_card_face_Mahakaman_Defender_5.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Ich sage dir, wir sind zum Kämpfen geboren - wir zielen genau auf ihre Knie.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_mahakam_verteidiger_24",
+    "name": "Mahakam-Verteidiger (3 von 5)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne „Sieben Katzen“, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/65/Tw3_gwent_card_face_Mahakaman_Defender_4.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Ich sage dir, wir sind zum Kämpfen geboren - wir zielen genau auf ihre Knie.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_mahakam_verteidiger_25",
+    "name": "Mahakam-Verteidiger (4 von 5)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Oxenfurt – Taverne Die Alchemie, Stjepan",
+    "acquisition": "kauf",
+    "region": "oxenfurt",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b2/Tw3_gwent_card_face_Mahakaman_Defender_3.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Ich sage dir, wir sind zum Kämpfen geboren - wir zielen genau auf ihre Knie.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_mahakam_verteidiger_26",
+    "name": "Mahakam-Verteidiger (5 von 5)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Passiflora, Marquise Serenitz",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/88/Tw3_gwent_card_face_Mahakaman_Defender_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Ich sage dir, wir sind zum Kämpfen geboren - wir zielen genau auf ihre Knie.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_milva_27",
+    "name": "Milva",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Anwesen der Vegelbuds, Sieg gegen Vladimir de Cret",
+    "acquisition": "quest",
+    "quest": "Eine lebenswichtige Angelegenheit",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/43/Tw3_gwent_card_face_Milva.png",
+    "missable": {
+      "value": true,
+      "reason": "Nur bei Sieg gegen Vladimir de Cret"
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Fernkampf",
+      "description": "Ich denke bei jedem Pfeilschuss an meinen Vater. Er wäre stolz. Glaube ich.",
+      "ability": "",
+      "traits": ["morale_boost"]
+    }
+  },
+  {
+    "id": "sco_riordain_28",
+    "name": "Riordain",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/6c/Tw3_gwent_card_face_Riordain.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Fernkampf",
+      "description": "Schau ihnen in die Augen, labe dich an ihrer Panik. Und dann töte sie.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_saesenthessis_29",
+    "name": "Saesenthessis",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Temerisches Widerstandslager, Sieg gegen Vernon Roche",
+    "acquisition": "quest",
+    "quest": "Gwint: Alte Freunde",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/56/Tw3_gwent_card_face_Saesenthessis.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Fernkampf",
+      "description": "Schön, rein, wild - die ideale Ikone der Rebellion.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "sco_schirru_30",
+    "name": "Schirrú",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Hearts of Stone",
+    "location": "Novigrad – Gänsemöse, Zirkuslager bei Carsten, Händler",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/41/Tw3_gwent_card_face_Schirru.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 8,
+      "row": "Belagerung",
+      "description": "Die Zeit ist gekommen, dem Tod ins Auge zu blicken.",
+      "ability": "",
+      "traits": ["burn"]
+    }
+  },
+  {
+    "id": "sco_toruviel_31",
+    "name": "Toruviel",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/50/Tw3_gwent_card_face_Toruviel.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Ich würde dich ja gerne aus der Nähe töten ... aber du stinkst, Mensch.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_vrihedd_brigade_32",
+    "name": "Vrihedd-Brigade (1 von 2)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Oxenfurt – Taverne Die Alchemie, Stjepan",
+    "acquisition": "kauf",
+    "region": "oxenfurt",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/9b/Tw3_gwent_card_face_Vrihedd_Brigade_Veteran_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "„Vrihedd? Was bedeutet das?“ - „Ärger.“",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "sco_vrihedd_brigade_33",
+    "name": "Vrihedd-Brigade (2 von 2)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne Eisvogel, Olivier oder Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/40/Tw3_gwent_card_face_Vrihedd_Brigade_Veteran_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "„Vrihedd? Was bedeutet das?“ - „Ärger.“",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "sco_vrihedd_kadett_34",
+    "name": "Vrihedd-Kadett",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/bd/Tw3_gwent_card_face_Vrihedd_Brigade_Recruit.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Hass brennt heller als jedes Feuer und schneidet tiefer als jede Klinge.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_yaevinn_35",
+    "name": "Yaevinn",
+    "faction": "scoiatael",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Kaer-Trolde-Hafen, Sieg gegen Sjusta die Schneiderin",
+    "acquisition": "quest",
+    "quest": "Gwint: Skelliger Stil",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fa/Tw3_gwent_card_face_Yaevinn.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Wir sind die Regentropfen, aus denen in Masse ein tobendes Unwetter wird.",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "sco_zwergen_scharmuetzler_36",
+    "name": "Zwergen-Scharmützler (1 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/41/Tw3_gwent_card_face_Dwarevn_Skirmisher_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Nahkampf",
+      "description": "Ich hab meine Picke so lange geschwungen, da ist eine Kriegsaxt kein Problem.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sco_zwergen_scharmuetzler_37",
+    "name": "Zwergen-Scharmützler (2 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fd/Tw3_gwent_card_face_Dwarevn_Skirmisher_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Nahkampf",
+      "description": "Ich hab meine Picke so lange geschwungen, da ist eine Kriegsaxt kein Problem.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sco_zwergen_scharmuetzler_38",
+    "name": "Zwergen-Scharmützler (3 von 3)",
+    "faction": "scoiatael",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Oxenfurt – Taverne Die Alchemie, Stjepan (oder zufälliger Gewinn)",
+    "acquisition": "kauf",
+    "region": "oxenfurt",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/20/Tw3_gwent_card_face_Dwarevn_Skirmisher_3.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Nahkampf",
+      "description": "Ich hab meine Picke so lange geschwungen, da ist eine Kriegsaxt kein Problem.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sco_francesca_findabair_die_schoene_39",
+    "name": "Francesca Findabair: Die Schöne",
+    "faction": "scoiatael",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Novigrad – Belohnung für den Abschluss der Quest",
+    "acquisition": "quest",
+    "quest":"Gwint: Spieler der Großstadt",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/f1/Tw3_gwent_card_face_Francesca_Findabair_the_Beautiful.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Die älteren Völker haben mehr vergessen, als die Menschen je wissen werden.",
+      "ability": "Verdopple die Stärke deiner Fernkampfeinheiten, sofern kein „Horn des Kommandanten“ in der Reihe liegt.",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_francesca_findabair_gaensebluemchen_des_tals_40",
+    "name": "Francesca Findabair: Gänseblümchen des Tals",
+    "faction": "scoiatael",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Novigrad – Gänsemöse, Taverne „Zur Gänsemöse“, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/bb/Tw3_gwent_card_face_Francesca_Findabair_Daisy_of_the_Valley.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Lass dich beim Zielen nicht von meiner Schönheit ablenken!",
+      "ability": "Zieh zu Beginn der Schlacht eine Extrakarte.",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_francesca_findabair_hoffnung_der_aen_seidhe_41",
+    "name": "Francesca Findabair: Hoffnung der Aen Seidhe",
+    "faction": "scoiatael",
+    "type": "Anführer",
+    "source": "Hearts of Stone",
+    "location": "Novigrad-Umland – Brunwich, Obere Mühle, Dulla kh'Amanni",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/21/Tw3_gwent_card_face_Francesca_Findabair_Hope_of_the_Aen_Seidhe.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Daede sian caente, Aen Seidhe en'allane ael coeden ...",
+      "ability": "Verschiebt Einheiten mit der Fähigkeit „Gewandtheit“ auf die für sie optimale Reihe, sofern sie nicht bereits dort befinden.",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_francesca_findabair_koenigin_dol_blathannas_42",
+    "name": "Francesca Findabair: Königin Dol Blathannas",
+    "faction": "scoiatael",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Novigrad – Passiflora, Sieg gegen Finneas",
+    "acquisition": "turnier",
+    "quest": "Hohe Einsätze",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b1/Tw3_gwent_card_face_Francesca_Findabair_Queen_of_Dol_Blathanna.png",
+    "missable": {
+      "value": true,
+      "reason": "Nur bei Sieg im Gwint-Turnier „Hohe Einsätze“"
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Wir müssen töten, um in Frieden zu leben. Grausames Finale der Unterdrückung.",
+      "ability": "Zerstöre die stärkste(n) Nahkampfeinheit(en) des Gegners, wenn die Gesamtstärke seiner Nahkampfeinheiten mindestens 10 beträgt.",
+      "traits": []
+    }
+  },
+  {
+    "id": "sco_francesca_findabair_reinbluetige_elfin_43",
+    "name": "Francesca Findabair: Reinblütige Elfin",
+    "faction": "scoiatael",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/1b/Tw3_gwent_card_face_Francesca_Findabair_Pureblood_Elf.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Asche soll den Boden düngen. Bis zum Frühjahr werden die Täler wieder blühen.",
+      "ability": "Durchsuche deinen Nachziehstapel nach „Klirrende Kälte“ und spiele die Karte sofort aus.",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_draug_01",
+    "name": "Draug",
+    "faction": "monster",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Kaer Trolde, Sieg gegen Crach an Craite",
+    "acquisition": "quest",
+    "quest": "Gwint: Skelliger Stil",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/40/Tw3_gwent_card_face_Draug.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_einschuechterer_02",
+    "name": "Einschüchterer",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/f8/Tw3_gwent_card_face_Frightener.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Was habe ich getan?' schrie der Magier in Furcht vor seiner eigenen Kreatur.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_eisriese_03",
+    "name": "Eisriese",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Spikeroog, Svorlag, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/f1/Tw3_gwent_card_face_Ice_Giant.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Belagerung",
+      "description": "Ich bin nur ein Mal geflohen. Vor dem Eisriesen. Und schäme mich kein Stück.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_endriaga_04",
+    "name": "Endriaga",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b5/Tw3_gwent_card_face_Endrega.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Das Nest, zerstört das Nest! Sonst kommen immer mehr von diesen Bastarden!",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_erdgenius_05",
+    "name": "Erdgenius",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Kaer-Trolde-Hafen, Taverne Neuhaven, Wirt Jonas",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/3f/Tw3_gwent_card_face_Earth_Elemental.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Wie man gegen Erdgenien kämpft? Gar nicht. Man rennt. So schnell wie möglich.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_fehlgeborener_06",
+    "name": "Fehlgeborener",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Kaer-Trolde-Hafen, Taverne Neuhaven, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/6c/Tw3_gwent_card_face_Botchling.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Gesteh deine Fehler ein und begrabe sie anständig. Sonst suchen sie dich heim.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_feuergenius_07",
+    "name": "Feuergenius",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/a/ae/Tw3_gwent_card_face_Fire_Elemental.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Feuer ist so herrlich.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_gabelschwanz_08",
+    "name": "Gabelschwanz",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/bf/Tw3_gwent_card_face_Forktail.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Gabelschwänze - pah! Sind wohl eher Hackebeilschwänze, diese Kackviecher.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_gargoyle_09",
+    "name": "Gargoyle",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/6e/Tw3_gwent_card_face_Gargoyle.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Grässliche Fantasien der Bildhauer von einst, von Magiern zum Leben erweckt.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_ghul_10",
+    "name": "Ghul (1 von 3)",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Faroe, Taverne in Harviken, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/03/Tw3_gwent_card_face_Ghoul_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Nahkampf",
+      "description": "Ghule, ein Teil des Lebenskreises? Dann ist das ein Teufelskreis.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_ghul_11",
+    "name": "Ghul (2 von 3)",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/09/Tw3_gwent_card_face_Ghoul_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Nahkampf",
+      "description": "Ghule, ein Teil des Lebenskreises? Dann ist das ein Teufelskreis.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_ghul_12",
+    "name": "Ghul (3 von 3)",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/76/Tw3_gwent_card_face_Ghoul_3.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 1,
+      "row": "Nahkampf",
+      "description": "Ghule, ein Teil des Lebenskreises? Dann ist das ein Teufelskreis.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_greif_13",
+    "name": "Greif",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/61/Tw3_gwent_card_face_Griffin.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Greife spielen gerne mit ihrer Beute. Fressen sie bei lebendigem Leibe auf.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_gruftweib_14",
+    "name": "Gruftweib",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/64/Tw3_gwent_card_face_Grave_Hag.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Fernkampf",
+      "description": "Mit ihren langen Zungen lutschen sie Knochenmark - und prügeln ihre Gegner.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_harpyie_15",
+    "name": "Harpyie",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Faroe, Taverne in Harviken, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/e/e1/Tw3_gwent_card_face_Harpy.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Es gibt viele Harpyienarten. Kleptomanisch sind sie alle.",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "mon_imlerith_16",
+    "name": "Imlerith",
+    "faction": "monster",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/3b/Tw3_gwent_card_face_Imlerith.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Nahkampf",
+      "description": "Ladd nawh! Tötet sie! Bedeckt die Erde mit ihren Eingeweiden!",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "mon_kayran_17",
+    "name": "Kayran",
+    "faction": "monster",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/48/Tw3_gwent_card_face_Kayran.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 8,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Einen Kayran töten? Bestes Schwert nehmen, verkaufen, Hexer anheuern.",
+      "ability": "",
+      "traits": ["hero", "agile"]
+    }
+  },
+  {
+    "id": "mon_kelajno_harpyie_18",
+    "name": "Kelajno-Harpyie",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/16/Tw3_gwent_card_face_Celaeno_Harpy.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Gewöhnliche Harpyien sind Aasfresser. Kelajno-Harpyien ... sind Traumfresser.",
+      "ability": "",
+      "traits": ["agile"]
+    }
+  },
+  {
+    "id": "mon_gorgo_19",
+    "name": "Gorgo",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/c9/Tw3_gwent_card_face_Cockatrice.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Aus dem Ei eines Hahns geschlüpft. Wenn man solche Bauernmärchen glauben will.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_krabbspinne_20",
+    "name": "Krabbspinne (1 von 3)",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Arinbjorn, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/2d/Tw3_gwent_card_face_Arachas_1.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Hässlich. So sagt die Natur 'bleib bloß weg!'",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_krabbspinne_21",
+    "name": "Krabbspinne (2 von 3)",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – An Skellig, Hafen von Urialla, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/4c/Tw3_gwent_card_face_Arachas_3.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Hässlich. So sagt die Natur 'bleib bloß weg!'",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_krabbspinne_22",
+    "name": "Krabbspinne (3 von 3)",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Spikeroog, Svorlag, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8a/Tw3_gwent_card_face_Arachas_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Hässlich. So sagt die Natur 'bleib bloß weg!'",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_krabbspinnen_ungetuem_23",
+    "name": "Krabbspinnen-Ungetüm",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8e/Tw3_gwent_card_face_Arachas_Behemoth.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Seltene Krabbspinnenart. Groß wie ein Elefant, aber viel zäher.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_kroete_24",
+    "name": "Kröte",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Hearts of Stone",
+    "location": "Oxenfurt – Sieg gegen Olgierd von Everec (oder Fund auf dem Tisch in der Taverne Die Alchemie)",
+    "acquisition": "belohnung",
+    "region": "oxenfurt",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/1f/Tw3_gwent_card_face_Toad.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 7,
+      "row": "Fernkampf",
+      "description": "Groß, böse, hässlich. Hockt in der Kanalisation.",
+      "ability": "",
+      "traits": ["burn"]
+    }
+  },
+  {
+    "id": "mon_muhme_brauerin_25",
+    "name": "Muhme: Brauerin",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/a/ad/Tw3_gwent_card_face_Croneu_Brewess.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Wir schlitzen dich auf, Junge. Und machen eine leckere Brühe aus dir.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_muhme_fluesterin_26",
+    "name": "Muhme: Flüsterin",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Arinbjorn, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/2c/Tw3_gwent_card_croneu_Whispess.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Ich wäre deine Beste - und Letzte.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_muhme_weberin_27",
+    "name": "Muhme: Weberin",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Velen – Benek, Sieg gegen den Alten Wissenden während „Gwint: Spieler in Velen“",
+    "acquisition": "quest",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/29/Tw3_gwent_card_face_Croneu_Weavess.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Ich wittere deinen Schmerz. Ich sehe deine Angst ...",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_nebling_28",
+    "name": "Nebling",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Spikeroog, Svorlag, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/21/Tw3_gwent_card_face_Foglet.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Nebel kommt leise angekrochen. Neblinge kriechen über die Leichen ihrer Opfer.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_nekker_29",
+    "name": "Nekker (1 von 3)",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Faroe, Trottheim, Beute von Hammonds Leichnam",
+    "acquisition": "quest",
+    "quest": "Auf der Fährte",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/be/Tw3_gwent_card_face_Nekker_1.png",
+    "missable": {
+      "value": true,
+      "reason": "Nur als Beute an Hammonds Leiche während „Auf der Fährte“"
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Die Mistviecher wären fast niedlich, wenn sie nicht so mörderisch wären.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_nekker_30",
+    "name": "Nekker (2 von 3)",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Faroe, Taverne in Harviken, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/25/Tw3_gwent_card_face_Nekker_3.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Die Mistviecher wären fast niedlich, wenn sie nicht so mörderisch wären.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_nekker_31",
+    "name": "Nekker (3 von 3)",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/5c/Tw3_gwent_card_face_Nekker_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Die Mistviecher wären fast niedlich, wenn sie nicht so mörderisch wären.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_pestmaid_32",
+    "name": "Pestmaid",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fd/Tw3_gwent_card_face_Plague_Maiden.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Kranke Fantasien über eine Frau mit Pestbeulen, von tollwütigen Ratten umgeben ...",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_unhold_33",
+    "name": "Unhold",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Arinbjorn, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/52/Tw3_gwent_card_face_Fiend.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Ein Bies sieht ein bisschen wie ein Hirsch aus. Ein riesiger, böser Hirsch.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_vampir_bruxa_34",
+    "name": "Vampir: Bruxa",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Anwesen der Vegelbuds, Sieg gegen Gomo Seeling (zweite Runde)",
+    "acquisition": "quest",
+    "quest": "Eine lebenswichtige Angelegenheit",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/e/e2/Tw3_gwent_card_face_Vampire_Bruxa.png",
+    "missable": {
+      "value": true,
+      "reason": "Nur bei Sieg gegen Gomo Seeling"
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Man kann Bruxae mit einem Pfahl töten. Falls er die Länge einer Deichsel hat.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_vampir_ekimma_35",
+    "name": "Vampir: Ekimma",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Spikeroog, Svorlag, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/a/a8/Tw3_gwent_card_face_Vampire_Ekimmara.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Wer hätte gedacht, dass Riesenfledermäuse scharf auf pompöse Klunker sind?",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_vampir_flatterer_36",
+    "name": "Vampir: Flatterer",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Faroe, Taverne in Harviken, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/23/Tw3_gwent_card_face_Vampire_Fleder.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Höhere Vampire umarmen ihre Opfer. Flatterer reißen sie in Fetzen.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_vampir_garkin_37",
+    "name": "Vampir: Garkin",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/2d/Tw3_gwent_card_face_Vampire_Garkain.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Blutsaufende Leichenfresser, deren schiere Widerwärtigkeit ihre Gegner lähmt.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_vampir_katakan_38",
+    "name": "Vampir: Katakan",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Kaer Muire, Sieg gegen Jarl Lugos der Irre",
+    "acquisition": "quest",
+    "quest": "Gwint: Skelliger Stil",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/e/e4/Tw3_gwent_card_face_Vampire_Katakan.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Säuft seit der Konjunktion das Blut des Kontinents.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "mon_waldschrat_39",
+    "name": "Waldschrat",
+    "faction": "monster",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Gedyneith, Sieg gegen Ermion",
+    "acquisition": "quest",
+    "quest": "Gwint: Skelliger Stil",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/86/Tw3_gwent_card_face_Leshen.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Fernkampf",
+      "description": "Wir jagen nicht in diesen Wäldern. Und wenn das ganze Dorf verhungert.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "mon_werwolf_40",
+    "name": "Werwolf",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Skellige – An Skellig, Hafen von Urialla, Wirt",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/25/Tw3_gwent_card_face_Werewolf.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Wölfe sind nicht so schlimm, wie man sagt. Werwölfe sind hingegen schlimmer.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_wyvern_41",
+    "name": "Wyvern",
+    "faction": "monster",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/3b/Tw3_gwent_card_face_Wyvern.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Wyvern - eine Mischung aus geflügelter Schlange und Albtraum, nur schlimmer.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_eredin_breacc_glas_der_truegerische_42",
+    "name": "Eredin Bréacc Glas: Der Trügerische",
+    "faction": "monster",
+    "type": "Anführer",
+    "source": "Hearts of Stone",
+    "location": "Novigrad-Umland – Brunwich, Obere Mühle, Dulla kh'Amanni",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8b/Tw3_gwent_card_face_Eredin_The_Treacherous.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Du machst mir Spaß. Ich spiele mit dir.",
+      "ability": "Verdoppelt die Stärke aller Karten mit der Fähigkeit „Spion“ (wirkt auf beide Spieler).",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_eredin_bringer_des_todes_43",
+    "name": "Eredin: Bringer des Todes",
+    "faction": "monster",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Velen – Belohnung für den Abschluss der Quest",
+    "acquisition": "quest",
+    "quest": "Gwint: Spieler in Velen",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/17/Tw3_gwent_card_face_Eredin_Destroyer_of_Worlds.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Es ist unvermeidlich.",
+      "ability": "Wirf 2 Karten ab und ziehe 1 Karte deiner Wahl aus deinem Kartensatz.",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_eredin_fuehrer_der_roten_reiter_44",
+    "name": "Eredin: Führer der Roten Reiter",
+    "faction": "monster",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/43/Tw3_gwent_card_face_Eredin_Commander_of_the_Red_Riders.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Na los. Zeig mir deine Dreher, Pirouetten und Finten. Ich will sie sehen.",
+      "ability": "Durchsuche deinen Nachziehstapel nach einer Wetterkarte und spiele sie sofort aus.",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_eredin_koenig_der_wilden_jagd_45",
+    "name": "Eredin: König der Wilden Jagd",
+    "faction": "monster",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b6/Tw3_gwent_card_face_Eredin_King_of_the_Wild_Hunt.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Etwas Würde, bitte. Du weißt, wie dies enden wird.",
+      "ability": "Verdopple die Stärke deiner Nahkampfeinheiten, sofern kein „Horn des Kommandanten“ in der Reihe liegt.",
+      "traits": []
+    }
+  },
+  {
+    "id": "mon_eredin_zerstoerer_der_welten_46",
+    "name": "Eredin: Zerstörer der Welten",
+    "faction": "monster",
+    "type": "Anführer",
+    "source": "Grundspiel",
+    "location": "Novigrad – Passiflora, Sieg gegen Graf Tybalt",
+    "acquisition": "turnier",
+    "quest": "Hohe Einsätze",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fd/Tw3_gwent_card_face_Eredin_Bringer_of_Death.png",
+    "missable": {
+      "value": true,
+      "reason": "Nur bei Sieg im Gwint-Turnier „Hohe Einsätze“"
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Bring uns hier raus! Sofort!",
+      "ability": "Nimm eine Karte von deinem Ablagestapel zurück auf die Hand.",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_berserker_01",
+    "name": "Berserker",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/65/Tw3_gwent_face_Berserker.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Töten, zermalmen, zerfetzen!",
+      "ability": "",
+      "traits": ["berserker"]
+    }
+  },
+  {
+    "id": "sk_birna_bran_02",
+    "name": "Birna Bran",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/23/Tw3_gwent_face_Birna_Bran.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Skellige braucht einen starken König. Um jeden Preis.",
+      "ability": "",
+      "traits": ["medic"]
+    }
+  },
+  {
+    "id": "sk_blaujung_lugos_03",
+    "name": "Blaujung Lugos",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/bd/Tw3_gwent_face_Blueboy_Lugos.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Ich könnte vor Langeweile kotzen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_bogenschuetze_des_clans_brokvar_04",
+    "name": "Bogenschütze des Clans Brokvar (1 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/f2/Tw3_gwent_face_Clan_Brokvar_Archer.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Fernkampf",
+      "description": "Du kannst ein bewegtes Ziel also auf zweihundert Schritt treffen. Ich auch. Bei Sturm.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_bogenschuetze_des_clans_brokvar_05",
+    "name": "Bogenschütze des Clans Brokvar (2 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/f2/Tw3_gwent_face_Clan_Brokvar_Archer.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Fernkampf",
+      "description": "Du kannst ein bewegtes Ziel also auf zweihundert Schritt treffen. Ich auch. Bei Sturm.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_bogenschuetze_des_clans_brokvar_06",
+    "name": "Bogenschütze des Clans Brokvar (3 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Castel-Ravello-Weingut, Sieg gegen die Kräuterfrau",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/f2/Tw3_gwent_face_Clan_Brokvar_Archer.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Fernkampf",
+      "description": "Du kannst ein bewegtes Ziel also auf zweihundert Schritt treffen. Ich auch. Bei Sturm.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_cerys_07",
+    "name": "Cerys",
+    "faction": "skellige",
+    "type": "Held",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Gasthaus „Zum Fass & Zapfen“, Sieg gegen die Wirtin",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/3c/Tw3_gwent_card_face_Cerys.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Nahkampf",
+      "description": "Man nennt mich Sperber. Weißt du, warum? Weil ich Ratten wie dich zum Frühstück fresse.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "sk_donar_an_hindar_08",
+    "name": "Donar an Hindar",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8d/Tw3_gwent_face_Donar_an_Hindar.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Ich habe alle Jarls versammelt. Bring dein Anliegen vor.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_draig_bon_dhu_09",
+    "name": "Draig Bon-Dhu",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Taverne „Die Fasanerie“ in Beauclair, Sieg gegen die Wirtin",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b5/Tw3_gwent_card_face_Draig_Bon-Dhu.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Belagerung",
+      "description": "Hört die Geschichte der heroischen Taten des Clans der an Craite.",
+      "ability": "",
+      "traits": ["horn"]
+    }
+  },
+  {
+    "id": "sk_maeussack_10",
+    "name": "Mäussack",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Francollarts, Sieg gegen den Wirt",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/f9/Tw3_gwent_card_face_Ermion.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 8,
+      "row": "Fernkampf",
+      "description": "Nur die Unwissenden tun Mythen als Märchen ab.",
+      "ability": "",
+      "traits": ["hero", "mardroeme"]
+    }
+  },
+  {
+    "id": "sk_hjalmar_11",
+    "name": "Hjalmar",
+    "faction": "skellige",
+    "type": "Held",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/81/Tw3_gwent_face_Hjalmar.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 10,
+      "row": "Fernkampf",
+      "description": "Betrauern wir nicht die Toten, trinken wir lieber zu ihrem Gedächtnis!",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "sk_holger_schwarzhand_12",
+    "name": "Holger Schwarzhand",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/f8/Tw3_gwent_face_Holger_Blackhand.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Belagerung",
+      "description": "Trinken wir auf den Kaiser von Nilfgaard - möge sein Schniedel für immer schlaff sein!",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_junger_berserker_13",
+    "name": "Junger Berserker (1 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/77/Tw3_gwent_face_Young_Berserker.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Tracht Prügel?",
+      "ability": "",
+      "traits": ["berserker"]
+    }
+  },
+  {
+    "id": "sk_junger_berserker_14",
+    "name": "Junger Berserker (2 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Turniergelände, Sieg gegen den Waffenschmied",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/77/Tw3_gwent_face_Young_Berserker.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Tracht Prügel?",
+      "ability": "",
+      "traits": ["berserker"]
+    }
+  },
+  {
+    "id": "sk_junger_berserker_15",
+    "name": "Junger Berserker (3 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Beauclair, Schneiderwerkstatt, Sieg gegen Pierre",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/77/Tw3_gwent_face_Young_Berserker.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Fernkampf",
+      "description": "Tracht Prügel?",
+      "ability": "",
+      "traits": ["berserker"]
+    }
+  },
+  {
+    "id": "sk_kambi_16",
+    "name": "Kambi",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Francollarts, Sieg gegen den Wirt",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/82/Tw3_gwent_card_face_Kambi.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 0,
+      "row": "Nahkampf",
+      "description": "Wenn die Zeit gekommen ist, wird der Hahn Kambi krähen, und Hemdall wird erwachen.",
+      "ability": "",
+      "traits": ["avenger"]
+    }
+  },
+  {
+    "id": "sk_krieger_des_clans_an_craite_17",
+    "name": "Krieger des Clans an Craite (1 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/05/Tw3_gwent_face_Clan_an_Craite_Warrior.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Ich werde den an Craites solche Ehre machen, dass sich die Barden mit ihren Lobeshymnen heiser singen!",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "sk_krieger_des_clans_an_craite_18",
+    "name": "Krieger des Clans an Craite (2 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/05/Tw3_gwent_face_Clan_an_Craite_Warrior.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Ich werde den an Craites solche Ehre machen, dass sich die Barden mit ihren Lobeshymnen heiser singen!",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "sk_krieger_des_clans_an_craite_19",
+    "name": "Krieger des Clans an Craite (3 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/05/Tw3_gwent_face_Clan_an_Craite_Warrior.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Ich werde den an Craites solche Ehre machen, dass sich die Barden mit ihren Lobeshymnen heiser singen!",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "sk_kriegslangschiff_20",
+    "name": "Kriegslangschiff (1 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/63/Tw3_gwent_face_War_Longship.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Man sagt, Hemdalls Herz wird weit, wenn er die Langschiffe zur Plünderfahrt auslaufen sieht.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "sk_kriegslangschiff_21",
+    "name": "Kriegslangschiff (2 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/63/Tw3_gwent_face_War_Longship.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Man sagt, Hemdalls Herz wird weit, wenn er die Langschiffe zur Plünderfahrt auslaufen sieht.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "sk_kriegslangschiff_22",
+    "name": "Kriegslangschiff (3 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Turniergelände, Sieg gegen den Wirt",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/6/63/Tw3_gwent_face_War_Longship.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Belagerung",
+      "description": "Man sagt, Hemdalls Herz wird weit, wenn er die Langschiffe zur Plünderfahrt auslaufen sieht.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "sk_leichtes_langschiff_23",
+    "name": "Leichtes Langschiff (1 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/57/Tw3_gwent_face_Light_Longship.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Ihnen entkommen? In den Gewässern von Skellige? Viel Glück.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sk_leichtes_langschiff_24",
+    "name": "Leichtes Langschiff (2 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/57/Tw3_gwent_face_Light_Longship.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Ihnen entkommen? In den Gewässern von Skellige? Viel Glück.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sk_leichtes_langschiff_25",
+    "name": "Leichtes Langschiff (3 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Beauclair, Hauteville, Parfümerie, Sieg gegen den Parfümeur",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/57/Tw3_gwent_face_Light_Longship.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Ihnen entkommen? In den Gewässern von Skellige? Viel Glück.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "sk_lugos_der_irre_26",
+    "name": "Lugos der Irre",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/93/Tw3_gwent_face_Madman_Lugos.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "UAAAAAAAAAR!!!",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_mardroeme_27",
+    "name": "Mardroeme (1 von 3)",
+    "faction": "skellige",
+    "type": "Sonderkarte",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8f/Tw3_gwent_card_face_Mardroeme.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": ["Nahkampf", "Fernkampf", "Belagerung"],
+      "description": "Iss genug von denen, und die Welt ist nie wieder die gleiche ...",
+      "ability": "",
+      "traits": ["mardroeme"]
+    }
+  },
+  {
+    "id": "sk_mardroeme_28",
+    "name": "Mardroeme (2 von 3)",
+    "faction": "skellige",
+    "type": "Sonderkarte",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Beauclair-Hafen, „Die Glöcknerinnen von Beauclair“, Sieg gegen Madame Isabelle",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8f/Tw3_gwent_card_face_Mardroeme.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": ["Nahkampf", "Fernkampf", "Belagerung"],
+      "description": "Iss genug von denen, und die Welt ist nie wieder die gleiche ...",
+      "ability": "",
+      "traits": ["mardroeme"]
+    }
+  },
+  {
+    "id": "sk_mardroeme_29",
+    "name": "Mardroeme (3 von 3)",
+    "faction": "skellige",
+    "type": "Sonderkarte",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Beauclair, Hauteville, Kräuterladen, Sieg gegen die Kräuterfrau",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8f/Tw3_gwent_card_face_Mardroeme.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": ["Nahkampf", "Fernkampf", "Belagerung"],
+      "description": "Iss genug von denen, und die Welt ist nie wieder die gleiche ...",
+      "ability": "",
+      "traits": ["mardroeme"]
+    }
+  },
+  {
+    "id": "sk_olaf_30",
+    "name": "Olaf",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Kellerei „Viper & Juwelen“ in Beauclair, Sieg gegen den Sommelier",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/13/Tw3_gwent_face_Olaf.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 12,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Viele haben versucht, Olaf zu besiegen. Aber davon können sie nicht berichten - sie sind tot.",
+      "ability": "",
+      "traits": ["agile", "morale_boost"]
+    }
+  },
+  {
+    "id": "sk_pirat_des_clans_dimun_31",
+    "name": "Pirat des Clans Dimun",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Beauclair, Hauteville, „Dupont & Söhne“, Sieg gegen den Händler",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/4e/Tw3_gwent_card_face_Clan_Dimun_Pirate.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Fernkampf",
+      "description": "Ich kann die Angst in ihren Augen sehen. Vor mir ... vor dem Clan Dimun!",
+      "ability": "",
+      "traits": ["burn"]
+    }
+  },
+  {
+    "id": "sk_schildmaid_des_clans_drummond_32",
+    "name": "Schildmaid des Clans Drummond (1 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/3b/Tw3_gwent_face_Clan_Drummond_Shield_Maiden_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Sie werden an unseren Schilden zerspritzen wie Wellen an der Steilküste.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "sk_schildmaid_des_clans_drummond_33",
+    "name": "Schildmaid des Clans Drummond (2 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Taverne „Zum Basilisken“, Sieg gegen den Wirt",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/3b/Tw3_gwent_face_Clan_Drummond_Shield_Maiden_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Sie werden an unseren Schilden zerspritzen wie Wellen an der Steilküste.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "sk_schildmaid_des_clans_drummond_34",
+    "name": "Schildmaid des Clans Drummond (3 von 3)",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Francollarts, Sieg gegen den Rüstungsschmied",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/3b/Tw3_gwent_face_Clan_Drummond_Shield_Maiden_2.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Sie werden an unseren Schilden zerspritzen wie Wellen an der Steilküste.",
+      "ability": "",
+      "traits": ["tight_bond"]
+    }
+  },
+  {
+    "id": "sk_schmied_des_clans_tordarroch_35",
+    "name": "Schmied des Clans Tordarroch",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/7/7f/Tw3_gwent_face_Clan_Tordarroch_Armorsmith.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Mach dich auf Prügel gefasst.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_skalde_des_clans_heymaey_36",
+    "name": "Skalde des Clans Heymaey",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/96/Tw3_gwent_face_Clan_Heymaey_Skald.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Die Taten des Clans Heymaey werden in die Geschichte eingehen.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_svanrige_37",
+    "name": "Svanrige",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/4/4a/Tw3_gwent_face_Svankige.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Der Kaiser hat ihn auch für einen Zufallskönig gehalten. Zuerst.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_udalryk_38",
+    "name": "Udalryk",
+    "faction": "skellige",
+    "type": "Einheit",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/9a/Tw3_gwent_face_Udalryk.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Nahkampf",
+      "description": "Haaargh! Mir nach, wenn ihr den Mumm habt!",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_crach_an_craite_39",
+    "name": "Crach an Craite",
+    "faction": "skellige",
+    "type": "Anführer",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Geschenk von Graf Monnier (Skellige-Basisdeck)",
+    "acquisition": "geschenk",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/d/da/Tw3_gwent_card_face_Crach_an_Craite.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Ein König braucht Weisheit, Autorität und Eier aus Stahl.",
+      "ability": "Alle Karten aus dem Friedhof der jeweiligen Spieler gehen in ihre Kartensätze zurück.",
+      "traits": []
+    }
+  },
+  {
+    "id": "sk_koenig_bran_40",
+    "name": "König Bran",
+    "faction": "skellige",
+    "type": "Anführer",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Beauclair, Sieg gegen den Herzoglichen Kämmerer",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/9f/Tw3_gwent_face_King_Bran.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Niemand kann Bran ersetzen. Obwohl es viele versuchen werden.",
+      "ability": "Einheiten verlieren bei schlechtem Wetter nur die Hälfte ihrer Stärke.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_cirilla_fiona_elen_riannon_01",
+    "name": "Cirilla Fiona Elen Riannon",
+    "faction": "neutral",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Novigrad – Waldlager der Scoia'tael, Sieg gegen den Scoia'tael-Händler",
+    "acquisition": "quest",
+    "quest": "Gwint: Spieler der Großstadt",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/fb/Tw3_gwent_card_face_Cirilla.png",
+    "missable": {
+      "value": true,
+      "reason": "Erst nach Sieg gegen alle 3 anderen Spieler dieser Quest"
+    },
+    "infos": {
+      "strength": 15,
+      "row": "Nahkampf",
+      "description": "Märchen sind keine Märchen mehr, wenn die Leute anfangen, sie zu glauben.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "neu_extrem_dichter_nebel_02",
+    "name": "Extrem dichter Nebel (1 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8a/Tw3_gwent_card_face_Impenetrable_Fog.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Der Traum eines guten Kommandanten ... der Albtraum eines schlechten.",
+      "ability": "Setzt die Stärke aller Fernkampfkarten beider Spieler auf 1.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_extrem_dichter_nebel_03",
+    "name": "Extrem dichter Nebel (2 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8a/Tw3_gwent_card_face_Impenetrable_Fog.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Der Traum eines guten Kommandanten ... der Albtraum eines schlechten.",
+      "ability": "Setzt die Stärke aller Fernkampfkarten beider Spieler auf 1.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_extrem_dichter_nebel_04",
+    "name": "Extrem dichter Nebel (3 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8a/Tw3_gwent_card_face_Impenetrable_Fog.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Der Traum eines guten Kommandanten ... der Albtraum eines schlechten.",
+      "ability": "Setzt die Stärke aller Fernkampfkarten beider Spieler auf 1.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_finte_05",
+    "name": "Finte (1 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Grundspiel",
+    "location": "Weißgarten – Taverne, Wirtin (oder Händler davor, nach dem Prolog)",
+    "acquisition": "kauf",
+    "region": "weissgarten",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/92/Tw3_gwent_card_face_Decoy.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Wenn dir die Bauern ausgehen, geben Köder auch gutes Pfeilfutter ab.",
+      "ability": "Tausche diese Karte gegen eine Karte auf dem Schlachtfeld aus, um sie wieder deiner Hand zuzufügen.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_finte_06",
+    "name": "Finte (2 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Grundspiel",
+    "location": "Velen – Krähenfels, Quartiermeister im Laden des Barons (kann nach Warenauffrischung erneut erscheinen)",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/92/Tw3_gwent_card_face_Decoy.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Wenn dir die Bauern ausgehen, geben Köder auch gutes Pfeilfutter ab.",
+      "ability": "Tausche diese Karte gegen eine Karte auf dem Schlachtfeld aus, um sie wieder deiner Hand zuzufügen.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_finte_07",
+    "name": "Finte (3 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne „Sieben Katzen“, Wirt (Karte fehlt manchmal)",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/9/92/Tw3_gwent_card_face_Decoy.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Wenn dir die Bauern ausgehen, geben Köder auch gutes Pfeilfutter ab.",
+      "ability": "Tausche diese Karte gegen eine Karte auf dem Schlachtfeld aus, um sie wieder deiner Hand zuzufügen.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_gaunter_odim_08",
+    "name": "Gaunter O'Dim",
+    "faction": "neutral",
+    "type": "Einheit",
+    "source": "Hearts of Stone",
+    "location": "Oxenfurt – Auktionshaus der Brüder Borsodi, Sieg gegen Hilbert",
+    "acquisition": "quest",
+    "quest": "Sesam öffne dich!",
+    "region": "oxenfurt",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/d/d3/Tw3_gwent_card_face_Gaunt_ODimm.png",
+    "missable": {
+      "value": true,
+      "reason": "Man muss ihn ansprechen und herausfordern, bevor die Auktion endet."
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Belagerung",
+      "description": "Er gewährt stets genau das, was man sich gewünscht hat. Das ist das Problem.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "neu_gaunter_odim_finsternis_09",
+    "name": "Gaunter O'Dim: Finsternis (1 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Hearts of Stone",
+    "location": "Novigrad-Umland – Brunwich, Obere Mühle, Dulla kh'Amanni",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/c9/Tw3_gwent_card_face_Gaunter_ODimm_Darkness.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Nicht die Schatten - das Licht muss man fürchten.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "neu_gaunter_odim_finsternis_10",
+    "name": "Gaunter O'Dim: Finsternis (2 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Hearts of Stone",
+    "location": "Novigrad – Gänsemöse, Zirkuslager bei Carsten, Händler",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/c9/Tw3_gwent_card_face_Gaunter_ODimm_Darkness.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Nicht die Schatten - das Licht muss man fürchten.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "neu_gaunter_odim_finsternis_11",
+    "name": "Gaunter O'Dim: Finsternis (3 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Hearts of Stone",
+    "location": "Novigrad – Gänsemöse, Zirkuslager bei Carsten, Händler",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/c9/Tw3_gwent_card_face_Gaunter_ODimm_Darkness.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 4,
+      "row": "Fernkampf",
+      "description": "Nicht die Schatten - das Licht muss man fürchten.",
+      "ability": "",
+      "traits": ["muster"]
+    }
+  },
+  {
+    "id": "neu_geralt_von_riva_12",
+    "name": "Geralt von Riva",
+    "faction": "neutral",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne „Sieben Katzen“, Sieg gegen Thaler während „Gwint: Alte Freunde“ bzw. „Gwint: Spiel mit Thaler“ (oder als Fund auf einer Kiste im Nebenkaum, mit Hexersinn)",
+    "acquisition": "quest",
+    "quest": "Gwint: Alte Freunde",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/a/a6/Tw3_gwent_card_face_Geralt.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 15,
+      "row": "Nahkampf",
+      "description": "Wenn das nötig ist, um die Welt zu retten, ist es besser, wenn sie stirbt.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "neu_gutes_wetter_13",
+    "name": "Gutes Wetter (1 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/07/Tw3_gwent_card_face_Clear_Weather.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Die Sonne scheint, Dromle! Die Sonne scheint! Vielleicht gibt es doch noch Hoffnung ...",
+      "ability": "Hebt alle Effekte von Wetterkarten auf (Klirrende Kälte, Extrem dichter Nebel, Strömender Regen).",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_gutes_wetter_14",
+    "name": "Gutes Wetter (2 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/07/Tw3_gwent_card_face_Clear_Weather.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Die Sonne scheint, Dromle! Die Sonne scheint! Vielleicht gibt es doch noch Hoffnung ...",
+      "ability": "Hebt alle Effekte von Wetterkarten auf (Klirrende Kälte, Extrem dichter Nebel, Strömender Regen).",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_gutes_wetter_15",
+    "name": "Gutes Wetter (3 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/07/Tw3_gwent_card_face_Clear_Weather.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Die Sonne scheint, Dromle! Die Sonne scheint! Vielleicht gibt es doch noch Hoffnung ...",
+      "ability": "Hebt alle Effekte von Wetterkarten auf (Klirrende Kälte, Extrem dichter Nebel, Strömender Regen).",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_horn_des_kommandanten_16",
+    "name": "Horn des Kommandanten (1 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Grundspiel",
+    "location": "Velen – Taverne am Scheideweg, Wirt (kann nach Warenauffrischung erneut erscheinen)",
+    "acquisition": "kauf",
+    "region": "velen",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/33/Tw3_gwent_card_face_Commanders_Horn.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Das hebt zwar die Moral, aber dafür macht es taub.",
+      "ability": "Verdoppelt die Stärke aller Einheitenkarten in dieser Reihe. Maximal eine Karte pro Reihe.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_horn_des_kommandanten_17",
+    "name": "Horn des Kommandanten (2 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Grundspiel",
+    "location": "Novigrad – Passiflora, Marquise Serenitz (Karte fehlt manchmal)",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/33/Tw3_gwent_card_face_Commanders_Horn.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Das hebt zwar die Moral, aber dafür macht es taub.",
+      "ability": "Verdoppelt die Stärke aller Einheitenkarten in dieser Reihe. Maximal eine Karte pro Reihe.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_horn_des_kommandanten_18",
+    "name": "Horn des Kommandanten (3 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Grundspiel",
+    "location": "Oxenfurt – Taverne Die Alchemie, Stjepan",
+    "acquisition": "kauf",
+    "region": "oxenfurt",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/3/33/Tw3_gwent_card_face_Commanders_Horn.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Das hebt zwar die Moral, aber dafür macht es taub.",
+      "ability": "Verdoppelt die Stärke aller Einheitenkarten in dieser Reihe. Maximal eine Karte pro Reihe.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_klirrende_kaelte_19",
+    "name": "Klirrende Kälte (1 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/2b/Tw3_gwent_card_face_Biting_Frost.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Das Beste am Frost - Leichen verwesen nicht so schnell",
+      "ability": "Setzt die Stärke aller Nahkampfkarten beider Spieler auf 1.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_klirrende_kaelte_20",
+    "name": "Klirrende Kälte (2 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/2b/Tw3_gwent_card_face_Biting_Frost.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Das Beste am Frost - Leichen verwesen nicht so schnell",
+      "ability": "Setzt die Stärke aller Nahkampfkarten beider Spieler auf 1.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_klirrende_kaelte_21",
+    "name": "Klirrende Kälte (3 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/2/2b/Tw3_gwent_card_face_Biting_Frost.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Das Beste am Frost - Leichen verwesen nicht so schnell",
+      "ability": "Setzt die Stärke aller Nahkampfkarten beider Spieler auf 1.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_kuh_22",
+    "name": "Kuh",
+    "faction": "neutral",
+    "type": "Einheit",
+    "source": "Hearts of Stone",
+    "location": "Novigrad-Umland – Brunwich, Scheune, Obergeschoss (während der Hochzeitsfeier)",
+    "acquisition": "quest",
+    "quest": "Die Sause des toten Mannes",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/08/Tw3_gwent_card_face_Cow.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 0,
+      "row": "Fernkampf",
+      "description": "Muuh!",
+      "ability": "",
+      "traits": ["cow"]
+    }
+  },
+  {
+    "id": "neu_mysterioeser_elf_23",
+    "name": "Mysteriöser Elf",
+    "faction": "neutral",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Gedyneith, Sieg gegen Gremist",
+    "acquisition": "quest",
+    "quest": "Gwint: Skelliger Stil",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/54/Tw3_gwent_card_face_Mysterious_Elf.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 0,
+      "row": "Nahkampf",
+      "description": "Wahrsagerei ist keine Kunst. Nur zutreffende Wahrsagerei.",
+      "ability": "",
+      "traits": ["hero", "spy"]
+    }
+  },
+  {
+    "id": "neu_olgierd_von_everec_24",
+    "name": "Olgierd von Everec",
+    "faction": "neutral",
+    "type": "Einheit",
+    "source": "Hearts of Stone",
+    "location": "Oxenfurt – Sieg gegen Shani (oder als Fund im Obergeschoss von Shanis Praxis)",
+    "acquisition": "belohnung",
+    "region": "oxenfurt",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b4/Tw3_gwent_card_face_Olgierd_von_Everec.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": ["Nahkampf", "Fernkampf"],
+      "description": "Immerhin weißt du jetzt, dass ich nicht so schnell den Kopf verliere.",
+      "ability": "",
+      "traits": ["agile", "morale_boost"]
+    }
+  },
+  {
+    "id": "neu_ploetze_25",
+    "name": "Plötze",
+    "faction": "neutral",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Hauptmenü – Reiter „Meine Belohnungen“ freischalten",
+    "acquisition": "belohnungsprogramm",
+    "region": "hauptmenue",
+    "picture": "https://static.wikia.nocookie.net/hexer_gamepedia/images/5/5a/Tw3_gwent_card_face_Roach.png/revision/latest/scale-to-width-down/290?cb=20240501122925",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 3,
+      "row": "Nahkampf",
+      "description": "Los, Plötze! Schneller!",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_regis_rohellec_terzieff_26",
+    "name": "Regis Rohellec Terzieff",
+    "faction": "neutral",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/0a/Tw3_gwent_card_face_Emiel_Regis.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Man nennt mich Monster. Wenn man höflich ist. Sonst blutsaufenden Mutanten.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_rittersporn_27",
+    "name": "Rittersporn",
+    "faction": "neutral",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Anwesen der Vegelbuds, Sieg gegen Marius Florin",
+    "acquisition": "quest",
+    "quest": "Eine lebenswichtige Angelegenheit",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/5/5d/Tw3_gwent_card_face_Dandelion.png",
+    "missable": {
+      "value": true,
+      "reason": "Nur bei Sieg gegen Marius Florin"
+    },
+    "infos": {
+      "strength": 2,
+      "row": "Nahkampf",
+      "description": "Rittersporn: Zyniker, Lustmolch, Hurenbock und Lügner. Und mein bester Freund.",
+      "ability": "",
+      "traits": ["horn"]
+    }
+  },
+  {
+    "id": "neu_skellige_sturm_28",
+    "name": "Skellige-Sturm (1 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Turniergelände, Sieg gegen den Rüstungsschmied",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/1a/Tw3_gwent_face_Skellige_Storm.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Das ist kein normaler Sturm. Das ist der Zorn der Götter.",
+      "ability": "Die Stärke aller Fernkampf- und Belagerungseinheiten wird auf 1 reduziert.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_skellige_sturm_29",
+    "name": "Skellige-Sturm (2 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Turniergelände, Sieg gegen den Barbier",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/1a/Tw3_gwent_face_Skellige_Storm.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Das ist kein normaler Sturm. Das ist der Zorn der Götter.",
+      "ability": "Die Stärke aller Fernkampf- und Belagerungseinheiten wird auf 1 reduziert.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_skellige_sturm_30",
+    "name": "Skellige-Sturm (3 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Blood and Wine",
+    "location": "Toussaint – Hafen von Beauclair, Sieg gegen den Schlachter",
+    "acquisition": "belohnung",
+    "region": "toussaint",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/1/1a/Tw3_gwent_face_Skellige_Storm.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Das ist kein normaler Sturm. Das ist der Zorn der Götter.",
+      "ability": "Die Stärke aller Fernkampf- und Belagerungseinheiten wird auf 1 reduziert.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_stroemender_regen_31",
+    "name": "Strömender Regen (1 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/87/Tw3_gwent_card_face_Torrential_Rain.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Selbst der Regen in diesem Land riecht nach Pisse.",
+      "ability": "Setzt die Stärke aller Belagerungskarten beider Spieler auf 1.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_stroemender_regen_32",
+    "name": "Strömender Regen (2 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/87/Tw3_gwent_card_face_Torrential_Rain.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Selbst der Regen in diesem Land riecht nach Pisse.",
+      "ability": "Setzt die Stärke aller Belagerungskarten beider Spieler auf 1.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_stroemender_regen_33",
+    "name": "Strömender Regen (3 von 3)",
+    "faction": "neutral",
+    "type": "Wetterkarte",
+    "source": "Grundspiel",
+    "location": "Basis-Kartensatz",
+    "acquisition": "start",
+    "region": "basisdeck",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/87/Tw3_gwent_card_face_Torrential_Rain.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Selbst der Regen in diesem Land riecht nach Pisse.",
+      "ability": "Setzt die Stärke aller Belagerungskarten beider Spieler auf 1.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_triss_merigold_34",
+    "name": "Triss Merigold",
+    "faction": "neutral",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Novigrad – Taverne „Nirgendwo“, Sieg gegen Lambert (oder später als Fund auf Kaer Morhen)",
+    "acquisition": "quest",
+    "quest": "Gwint: Alte Freunde",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/0/03/Tw3_gwent_card_face_Triss.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 7,
+      "row": "Nahkampf",
+      "description": "Ich kann auf mich aufpassen. Glaub mir.",
+      "ability": "",
+      "traits": ["hero"]
+    }
+  },
+  {
+    "id": "neu_verbrennen_35",
+    "name": "Verbrennen (1 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Grundspiel",
+    "location": "Novigrad – Gänsemöse, Wirt",
+    "acquisition": "kauf",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b8/Tw3_gwent_card_face_Scorch.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Lodernde Flammen verbrennen die meisten. Die anderen erzittern vor Ehrfurcht.",
+      "ability": "Lege diese Karte nach dem Ausspielen ab. Entfernt die stärkste(n) Karte(n) beider Spieler auf dem Schlachtfeld.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_verbrennen_36",
+    "name": "Verbrennen (2 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Grundspiel",
+    "location": "Skellige – Ard Skellig, Kaer-Trolde-Hafen, Taverne Neuhaven, Wirt Jonas (kann nach Warenauffrischung erneut erscheinen)",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b8/Tw3_gwent_card_face_Scorch.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Lodernde Flammen verbrennen die meisten. Die anderen erzittern vor Ehrfurcht.",
+      "ability": "Lege diese Karte nach dem Ausspielen ab. Entfernt die stärkste(n) Karte(n) beider Spieler auf dem Schlachtfeld.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_verbrennen_37",
+    "name": "Verbrennen (3 von 3)",
+    "faction": "neutral",
+    "type": "Sonderkarte",
+    "source": "Grundspiel",
+    "location": "Skellige – An Skellig, Hafen von Urialla, Gastwirt (Karte fehlt manchmal)",
+    "acquisition": "kauf",
+    "region": "skellige",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/b/b8/Tw3_gwent_card_face_Scorch.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": null,
+      "row": null,
+      "description": "Lodernde Flammen verbrennen die meisten. Die anderen erzittern vor Ehrfurcht.",
+      "ability": "Lege diese Karte nach dem Ausspielen ab. Entfernt die stärkste(n) Karte(n) beider Spieler auf dem Schlachtfeld.",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_vesemir_38",
+    "name": "Vesemir",
+    "faction": "neutral",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Novigrad – Hierarchenplatz, Vivaldi-Bank, Sieg gegen Vimme Vivaldi",
+    "acquisition": "quest",
+    "quest": "Gwint: Spieler der Großstadt",
+    "region": "novigrad",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/f/f8/Tw3_gwent_card_face_Vesemir.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 6,
+      "row": "Nahkampf",
+      "description": "Wenn man dich hängt, bitte um Wasser. Bis du es kriegst, kann alles passieren.",
+      "ability": "",
+      "traits": []
+    }
+  },
+  {
+    "id": "neu_villentretenmerth_39",
+    "name": "Villentretenmerth",
+    "faction": "neutral",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Zufälliger Gewinn gegen Kaufleute",
+    "acquisition": "drop",
+    "region": "zufall",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/c/c9/Tw3_gwent_card_face_Villentretenmerth.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 7,
+      "row": "Nahkampf",
+      "description": "Er nennt sich auch Borch Drei Dohlen ... ein Händchen für Namen hat er nicht.",
+      "ability": "",
+      "traits": ["burn"]
+    }
+  },
+  {
+    "id": "neu_yennefer_von_vengerberg_40",
+    "name": "Yennefer von Vengerberg",
+    "faction": "neutral",
+    "type": "Held",
+    "source": "Grundspiel",
+    "location": "Oxenfurt – Taverne Die Alchemie, Sieg gegen Stjepan",
+    "acquisition": "quest",
+    "quest": "Gwint: Spiele gegen Wirte",
+    "region": "oxenfurt",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/8/8e/Tw3_gwent_card_face_Yennefer.png",
+    "missable": {
+      "value": false
+    },
+    "infos": {
+      "strength": 7,
+      "row": "Fernkampf",
+      "description": "In den schwarzweißen Gewändern erinnerte sie an einen frühen Dezembermorgen.",
+      "ability": "",
+      "traits": ["hero", "medic"]
+    }
+  },
+  {
+    "id": "neu_zoltan_chivay_41",
+    "name": "Zoltan Chivay",
+    "faction": "neutral",
+    "type": "Einheit",
+    "source": "Grundspiel",
+    "location": "Weißgarten – Taverne, Sieg gegen Aldert Geert",
+    "acquisition": "belohnung",
+    "region": "weissgarten",
+    "picture": "https://vignette.wikia.nocookie.net/witcher/images/a/a9/Tw3_gwent_card_face_Zoltan.png",
+    "missable": {
+      "value": true,
+      "reason": "Nur im Prolog (Taverne oder Fund am Galgenhügel danach)"
+    },
+    "infos": {
+      "strength": 5,
+      "row": "Nahkampf",
+      "description": "Zwerge würden sich für Freunde hängen lassen, sagt man. Bei Zoltan stimmt das.",
+      "ability": "",
+      "traits": []
+    }
+  }
+]
