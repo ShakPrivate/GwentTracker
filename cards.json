@@ -2732,11 +2732,11 @@
       "value": false
     },
     "infos": {
-      "strength": null,
-      "row": null,
-      "description": "",
+      "strength": 10,
+      "row": "Nahkampf",
+      "description": "Manche können Niederlagen nicht eingestehen und kämpfen noch als Tote weiter.",
       "ability": "",
-      "traits": []
+      "traits": ["hero"]
     }
   },
   {
